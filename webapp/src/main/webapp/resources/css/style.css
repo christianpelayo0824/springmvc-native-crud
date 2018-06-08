@@ -1,0 +1,65 @@
+/* ======================================================================== */
+/* Fonts Config */
+@font-face {
+	font-family: Montserrat-Regular;
+	src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+	font-family: Montserrat-Light;
+	src: url("../fonts/Montserrat/Montserrat-Light.ttf");
+}
+
+@font-face {
+	font-family: Montserrat-Thin;
+	src: url("../fonts/Montserrat/Montserrat-Thin.ttf");
+}
+
+@font-face {
+	font-family: Montserrat-Medium;
+	src: url("../fonts/Montserrat/Montserrat-Medium.ttf");
+}
+
+@font-face {
+	font-family: Montserrat-SemiBold;
+	src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: Montserrat-Bold;
+	src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
+
+* {
+	font-family: Montserrat-Medium;
+}
+
+
+.regular {
+	font-family: Montserrat-Regular;
+}
+
+.light {
+	font-family: Montserrat-Light;
+}
+
+.thin {
+	font-family: Montserrat-Thin;
+}
+
+.semi-bold {
+	font-family: Montserrat-SemiBold;
+}
+
+.medium {
+	font-family: Montserrat-Medium;
+}
+
+.bold {
+	font-family: Montserrat-Bold;
+}
+/* ======================================================================== */
+#myForm {
+	width: 350px;
+	margin: auto;
+}
